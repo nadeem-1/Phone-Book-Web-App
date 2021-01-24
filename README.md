@@ -1,5 +1,5 @@
 ## About
-It is basically a Phone Book Web Application using Node Express and MySQL as its Database.
+It is basically a Phone Book Web Application SERVICE using Node Express and MySQL as its Database.
 
 ## Install All the Dependencies
 ```
